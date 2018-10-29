@@ -1,11 +1,11 @@
 from setuptools import setup
 
 setup(
-    name='ROUGE_EVALUATION',
+    name='pythonrouge',
     version='0.2',
     description='python wrapper for ROUGE evaluation',
-    url='https://github.com/nguyenxuanhoi2903/ROUGE_EVALUATION.git',
-    author='tagucci',
+    url='https://github.com/nguyenxuanhoi2903/Tensorflow_Tutorial.git',
+    author='hoi.nguyen',
     author_email='nguyenxuanhoi.2903@gmail.com',
     keywords=['NL', 'CL', 'natural language processing',
               'computational linguistics', 'summarization'],
